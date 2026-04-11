@@ -20,7 +20,6 @@
   },
   "devDependencies": {
     "cross-env": "10.1.0",
-    "now": "21.0.1",
     "prettier": "3.8.2"
   }
 }
